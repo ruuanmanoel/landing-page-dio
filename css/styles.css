@@ -221,12 +221,11 @@ footer img{
     #professional-challenges{
         & h2{
             width: 746px;
-            font-size: 39px;
+            font-size: 32px;
             line-height: 37.57px;
             letter-spacing: 19%;
             text-align: center;
-
-        }
+                }
         & img{
             width: 659px;
             height: 429px;
